@@ -1,0 +1,1 @@
+[13-Sep-2018 17:46:12 UTC] PHP Fatal error:  Class 'Illuminate\Database\Eloquent\Model' not found in /home/botintel/public_html/app/Releases.php on line 7
